@@ -25,7 +25,7 @@ abstract class Lavoratore {
 
 class Professionista extends Lavoratore {
     constructor(_redditoAnnuoLordo: number) {
-        super(78, _redditoAnnuoLordo, 25.72, 5) //ESEGUE IL CONTRUCTOR DELLA CLASSE MADRE
+        super(78, _redditoAnnuoLordo, 25.72, 5) //ESEGUE IL CONSTRUCTOR DELLA CLASSE MADRE
     }
 }
 
